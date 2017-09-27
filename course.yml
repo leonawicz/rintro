@@ -1,5 +1,5 @@
 title            : rintro
-description      : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university       : DataCamp
-difficulty_level : 2
-time_needed      : 1 hour
+description      : An introduction to R for beginners. This DataCamp course is a component of STAT 2XX Introduction to R Programming, offered by the Department of Mathematics and Statistics.
+university       : University of Alaska Fairbanks
+difficulty_level : 1
+time_needed      : 20 hours
